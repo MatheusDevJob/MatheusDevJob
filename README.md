@@ -16,22 +16,25 @@
     <img align="center" alt="Matheus-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" alt="Matheus-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="center" alt="Matheus-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="Matheus-mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
   </div>
   <div align='left'>
     Contacte-me
-    <a href='https://api.whatsapp.com/send?phone=5581986914551'>
-      <img alt='Matheus-whatsapp' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-    </a>
-    <a href='mailto: matheusdevjob@gmail.com'>
-      <img alt='Matheus-mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-  </div>
-  <div align= 'center'>
     
+  <div>
+      <a href='https://api.whatsapp.com/send?phone=5581986914551'>
+        <img alt='Matheus-whatsapp' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+      </a>
+      <a href='mailto: matheusdevjob@gmail.com'>
+        <img alt='Matheus-mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+      </a>
   </div>
+  </div>
+  
 </div>
 
-
+![Snake animation](https://github.com/MatheusDevJob/MatheusDevJob/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -42,7 +45,7 @@
 
 
 <!--    Botões não estão funcionando
-![Snake animation](https://github.com/MatheusDevJob/MatheusDevJob/blob/output/github-contribution-grid-snake.svg)
+
 
 
  ### Contacte-me:

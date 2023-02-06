@@ -16,7 +16,10 @@
     <img align="center" alt="Matheus-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" alt="Matheus-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="center" alt="Matheus-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    <img align="center" alt="Matheus-mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Matheus-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Matheus-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img align="center" alt="Matheus-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+          
   </div>
 </div>
 <div align='left'>
@@ -28,6 +31,8 @@
       <a href='mailto: matheusdevjob@gmail.com'>
         <img alt='Matheus-mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
       </a>
+
+          
   </div>
 </div>
   <img src='fast-typing.gif'>

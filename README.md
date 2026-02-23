@@ -1,43 +1,95 @@
-<h1 align="center">Matheus Henrique</h1>
 <p align="center">
-  Desenvolvedor • Web / APIs / Apps • Jaboatão dos Guararapes - PE
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Matheus%20Dev&fontSize=60&fontAlignY=35&desc=build%20cool%20stuff%20%E2%80%A2%20apps%20%E2%80%A2%20apis%20%E2%80%A2%20automation&descAlignY=55" />
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL">Email</a> •
-  <a href="SEU_LINK_PORTFOLIO_OPCIONAL">Portfólio</a>
+  <a href="mailto:mhop.developer@gmail.com">
+    <img src="https://img.shields.io/badge/email-mhop.developer%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Recife%2FPE-111?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/always%20building-111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## Sobre mim
-- Curto construir **produtos completos**: front, back e ferramentas para automatizar o dia a dia.
-- Tenho projetos em **PHP (CodeIgniter)**, **Node.js**, **Flutter/Dart** e **Python**.
-- Buscando oportunidades / freelas onde eu possa entregar **produto de ponta a ponta**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=700&center=true&vCenter=true&width=750&lines=Eu+crio+coisas+que+viram+produto.;Apps%2C+APIs+e+automa%C3%A7%C3%B5es+%E2%9A%A1;PHP+%2F+Node.js+%2F+Flutter+%2F+Python;shipando+um+commit+de+cada+vez." />
+</p>
 
-## Projetos em destaque
-- **Controle de Horas** (PHP / CodeIgniter): sistema para registrar e acompanhar horas trabalhadas  
-  Repo: https://github.com/MatheusDevJob/controle-horas
+<br/>
 
-- **Financeiro (API)** (Node.js): backend do software de controle financeiro  
-  Repo: https://github.com/MatheusDevJob/api-financeiro
+<div align="center">
 
-- **Financeiro (App)** (Flutter): front end do software de controle financeiro  
-  Repo: https://github.com/MatheusDevJob/financas
+### toolbox
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express,react,flutter,dart,python,mysql,sqlite,git,github,vscode&perline=6)](https://skillicons.dev)
 
-- **Merge PDFs** (Python): mescla PDFs recursivamente (GUI + CLI)  
-  Repo: https://github.com/MatheusDevJob/merge-pdfs
+</div>
 
-## Stack principal
-- PHP (CodeIgniter), Node.js, Flutter (Dart), Python
-- MySQL / SQLite
-- Git / GitHub
+<br/>
 
-## Contato
-- Email: SEU_EMAIL
-- LinkedIn: SEU_LINK_LINKEDIN
+<div align="center">
+
+<a href="https://github.com/MatheusDevJob/financas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDevJob&repo=financas&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/MatheusDevJob/merge-pdfs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDevJob&repo=merge-pdfs&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### status do caos (bonito)
+
+<img height="190" src="https://streak-stats.demolab.com?user=MatheusDevJob&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### atividade (últimos dias)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDevJob&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### agora
+- 🔭 brincando com: **apps + automações + backends**
+- 🧪 gosto de: **interfaces limpas, APIs bem feitas e coisas rápidas**
+- 📫 contato: **mhop.developer@gmail.com**
+
+</div>
+
+<br/>
+
+<!-- Snake (opcional) - só vai aparecer se você configurar o workflow abaixo -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=footer" />
+</p>
 
 
 
+
+
+
+
+
+
+<!--
 ## Hello World!
 
 <div>
@@ -88,7 +140,7 @@
 
 
 
-<!--    Botões não estão funcionando
+    Botões não estão funcionando
 
 
 

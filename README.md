@@ -1,3 +1,43 @@
+<h1 align="center">Matheus Henrique</h1>
+<p align="center">
+  Desenvolvedor • Web / APIs / Apps • Jaboatão dos Guararapes - PE
+</p>
+
+<p align="center">
+  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:SEU_EMAIL">Email</a> •
+  <a href="SEU_LINK_PORTFOLIO_OPCIONAL">Portfólio</a>
+</p>
+
+## Sobre mim
+- Curto construir **produtos completos**: front, back e ferramentas para automatizar o dia a dia.
+- Tenho projetos em **PHP (CodeIgniter)**, **Node.js**, **Flutter/Dart** e **Python**.
+- Buscando oportunidades / freelas onde eu possa entregar **produto de ponta a ponta**.
+
+## Projetos em destaque
+- **Controle de Horas** (PHP / CodeIgniter): sistema para registrar e acompanhar horas trabalhadas  
+  Repo: https://github.com/MatheusDevJob/controle-horas
+
+- **Financeiro (API)** (Node.js): backend do software de controle financeiro  
+  Repo: https://github.com/MatheusDevJob/api-financeiro
+
+- **Financeiro (App)** (Flutter): front end do software de controle financeiro  
+  Repo: https://github.com/MatheusDevJob/financas
+
+- **Merge PDFs** (Python): mescla PDFs recursivamente (GUI + CLI)  
+  Repo: https://github.com/MatheusDevJob/merge-pdfs
+
+## Stack principal
+- PHP (CodeIgniter), Node.js, Flutter (Dart), Python
+- MySQL / SQLite
+- Git / GitHub
+
+## Contato
+- Email: SEU_EMAIL
+- LinkedIn: SEU_LINK_LINKEDIN
+
+
+
 ## Hello World!
 
 <div>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Matheus%20Dev&fontSize=60&fontAlignY=35&desc=build%20cool%20stuff%20%E2%80%A2%20apps%20%E2%80%A2%20apis%20%E2%80%A2%20automation&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Matheus%20Dev&fontSize=60&fontAlignY=35&desc=build%20cool%20stuff%20%E2%80%A2%20APPs%20%E2%80%A2%20APIs%20%E2%80%A2%20Automações&descAlignY=55" />
 </p>
 
 <p align="center">
@@ -25,23 +25,10 @@
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/MatheusDevJob/financas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDevJob&repo=financas&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/MatheusDevJob/merge-pdfs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusDevJob&repo=merge-pdfs&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
 ### status do caos (bonito)
-
 <img height="190" src="https://streak-stats.demolab.com?user=MatheusDevJob&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -68,20 +55,11 @@
 
 <br/>
 
-<!-- Snake (opcional) - só vai aparecer se você configurar o workflow abaixo -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MatheusDevJob/MatheusDevJob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=footer" />
 </p>
-
-
 
 
 
